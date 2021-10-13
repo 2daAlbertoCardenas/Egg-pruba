@@ -14,6 +14,7 @@ public class Ejercicio_5 {
         Scanner leer = new Scanner(System.in).useDelimiter("\n");
         HashSet<String> Pais = new HashSet();
         String verif;
+        String var;
         System.out.println("<<<<< CARGAR PAISES >>>>>");
         do {
             System.out.print("Pais:");
