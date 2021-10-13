@@ -6,15 +6,10 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
 
-/**
- *
- * @author Cristian
- */
+
 public class Ejercicio_5 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in).useDelimiter("\n");
         HashSet<String> Pais = new HashSet();
